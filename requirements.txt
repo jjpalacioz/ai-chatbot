@@ -1,0 +1,5 @@
+# Core dependency – OpenAI Python SDK
+openai>=1.30.0
+
+# Loads environment variables from a .env file
+python-dotenv>=1.0.0
